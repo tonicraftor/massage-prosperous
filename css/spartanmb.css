@@ -1,0 +1,49 @@
+
+@font-face {
+  font-family: "SpartanMB";
+  src: url("../font/SpartanMB-Regular.woff") format("woff"),
+       url("../font/SpartanMB-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SpartanMB";
+  src: url("../font/SpartanMB-Bold.woff") format("woff"),
+       url("../font/SpartanMB-Bold.otf") format("opentype");
+  font-weight:bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SpartanMB";
+  src: url("../font/SpartanMB-Extra-Bold.woff") format("woff"),
+       url("../font/SpartanMB-Extra-Bold.otf") format("opentype");
+  font-weight:800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SpartanMB";
+  src: url("../font/SpartanMB-Light.woff") format("woff"),
+       url("../font/SpartanMB-Light.otf") format("opentype");
+  font-weight:300;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "SpartanMB";
+  src: url("../font/SpartanMB-Thin.woff") format("woff"),
+       url("../font/SpartanMB-Thin.otf") format("opentype");
+  font-weight:100;
+  font-style:normal;
+}
+
+@font-face {
+  font-family: "SpartanMB Black";
+  src: url("../font/SpartanMB-Black.woff") format("woff"),
+       url("../font/SpartanMB-Black.otf") format("opentype");
+  font-weight:normal;
+  font-style:normal;
+}
